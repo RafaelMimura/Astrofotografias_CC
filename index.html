@@ -98,12 +98,17 @@
         //Funções para mostrar as imagens
 
         function reloadImage() {
+            if (intervalo != null) {clearInterval(intervalo);}
+            intervalo = null;
+
             document.getElementById("name").innerHTML = "Nome: " + list[idx][1];
             document.getElementById("type").innerHTML = "Tipo: " + list[idx][2];
             document.getElementById("cons").innerHTML = "Constelação: " + list[idx][3];
             document.getElementById("size").innerHTML = "Diâmetro: " + list[idx][4];
             document.getElementById("dist").innerHTML = "Distância: " + list[idx][5];
             document.getElementById("image").src = "Photos/" + list[idx][0] + ".png";
+
+            toggle();
         }
 
         function prevImage() {
