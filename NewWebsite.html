@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <meta charset = "utf-8">
+    <meta name = "viewport" content = "width=device-width initialscale=1">
+    <title>Astrofotografias CC</title>
+
+    <style>
+
+        * {
+            margin: 0;
+            padding: 20;
+        }
+
+        body {
+            font-family: Arial, Arial, Helvetica, sans-serif;
+            background-color: black;
+            color: white;
+            font-size: 200%;
+        }
+
+        #parent {
+            display: flex;
+            justify-content: space-around;
+        }
+
+        #left {
+            border: 5 px solid white;
+            background-color: #303030;
+            margin: auto;
+            width: 10%;
+        }
+        #middle {
+            border: 5 px solid white;
+            margin: auto;
+            width: 30%;
+        }
+        #right {
+            border: 2 px solid white;
+            margin: auto;
+            width: 50%;
+        }
+
+        .buttons {
+            width: 100%;
+            background-color: #f0f0f0;
+            display: block;
+        }
+
+        .action_button {
+            display: inline-block;
+            width: 30%;
+            margin: 0 auto;
+        }
+
+    </style>
+
+</head>
+
+<body onload="startup(); run()">
+    <div id="parent">
+        
+        <div id="left">
+            <button class="buttons" onclick="select(0)" id="All">Todos</button>
+            <button class="buttons" onclick="select(1)" id="Solar">Sistema Solar</button>
+            <button class="buttons" onclick="select(2)" id="Stars">Estrelas</button>
+            <button class="buttons" onclick="select(3)" id="Clusters">Aglomerados</button>
+            <button class="buttons" onclick="select(4)" id="Nebulas">Nebulosas</button>
+            <button class="buttons" onclick="select(5)" id="Galaxies">Galáxias</button>
+
+            <button id="prev" class="action_button" onclick="prevImage()">Prev</button>
+            <button id="play" class="action_button" onclick="toggle()">Play</button>
+            <button id="next" class="action_button" onclick="nextImage()">Next</button>
+        </div>
+
+        <div id="middle">
+            <p id="name">Nome: Nebulosa do Anel do Sul</p>
+            <p id="type">Tipo: nebulosa planetária</p>
+            <p id="cons">Constelação: Vela</p>
+            <p id="size">Diâmetro: 0,60 anos-luz</p>
+            <p id="dist">Distância: 2000 anos-luz</p>
+        </div>
+
+        <div id="right">
+            <img id="image" src="Photos/Southern_Ring.png" alt="Imagem" width="100%" height="100%">
+        </div>
+
+    </div>
+
+    <script>
+        var data, idx = 0;
+        var types, list;
+        var intervalo = null;
+
+        //----------------------------------------------------------------------------------------------------------------------------------------------
+        //Funções para mostrar as imagens
+
+        function reloadImage() {
+            document.getElementById("name").innerHTML = "Nome: " + list[idx][1];
+            document.getElementById("type").innerHTML = "Tipo: " + list[idx][2];
+            document.getElementById("cons").innerHTML = "Constelação: " + list[idx][3];
+            document.getElementById("size").innerHTML = "Diâmetro: " + list[idx][4];
+            document.getElementById("dist").innerHTML = "Distância: " + list[idx][5];
+            document.getElementById("image").src = "Photos/" + list[idx][0] + ".png";
+        }
+
+        function prevImage() {
+            idx--;
+            if (idx < 0) {idx = list.length - 1;}
+            reloadImage();
+        }
+
+        function nextImage() {
+            idx++;
+            if (idx == list.length) {idx = 0;}
+            reloadImage();
+        }
+
+        function toggle() {
+            const button = document.getElementById("play");
+
+            if (intervalo == null) {
+                intervalo = setInterval(() => {
+                    nextImage();
+                }, 5000);
+                button.textContent = "Stop";
+            }
+            else {
+                clearInterval(intervalo);
+                intervalo = null;
+                button.textContent = "Play";
+            }
+        }
+
+        //----------------------------------------------------------------------------------------------------------------------------------------------
+        //Função para escolher os tipos de objetos
+
+        function select(n) {
+            if (n == 0) {list = data;}
+            else {list = types[n-1];}
+
+            // document.getElementById("name").innerHTML = list[0][0];
+
+            let buttons = document.getElementsByClassName("buttons");
+            for (let i=0; i<buttons.length; i++) {
+                if (i == n) {buttons[i].style.backgroundColor = "#76e5fc";}
+                else {buttons[i].style.backgroundColor = "#f0f0f0";}
+            }
+
+            idx = 0;
+            reloadImage();
+        }
+
+        //----------------------------------------------------------------------------------------------------------------------------------------------
+        //Função para inicializar os dados
+
+        async function startup() {
+            try {
+                const response = await fetch("info.txt");
+                const text = await response.text();
+
+                let i = 0, j = 0;
+                let aux1 = [];
+                let aux2 = [];
+
+                let lines = text.split('\n');
+                for (let n=0; n<lines.length; n++) {
+                    if (lines[n].length == 0) {
+                        aux1[i] = aux2;
+                        aux2 = [];
+                        i++; j = 0;
+                        continue;
+                    }
+                    
+                    aux2[j] = lines[n];
+                    j++;
+                }
+                data = aux1;
+            }
+
+            catch (err) {
+                document.getElementById("name").innerHTML = "Error reading file: " + err;
+            }
+
+            try {
+                const response = await fetch("types.txt");
+                const text = await response.text();
+
+                let i = 0, j = 0;
+                let aux1 = [];
+                let aux2 = [];
+                let name;
+
+                let lines = text.split('\n');
+                for (let n=0; n<lines.length; n++) {
+                    if (lines[n].length == 0) {
+                        aux1[i] = aux2;
+                        aux2 = [];
+                        i++; j = 0;
+                        continue;
+                    }
+
+                    if (lines[n][0] == '#') {continue;}
+                    name = lines[n];
+
+                    for (let k=0; k<data.length; k++) {
+                        if (data[k][0] == name) {
+                            aux2[j] = data[k];
+                            j++;
+                            break;
+                        }
+                    }
+                }
+                types = aux1;
+            }
+
+            catch (err) {
+                document.getElementById("name").innerHTML = "Error reading file: " + err;
+            }
+
+            select(0);
+        }
+
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,224 @@
+Southern_Ring
+Nebulosa do Anel do Sul
+nebulosa planetária
+Vela
+0,60 anos-luz
+2000 anos-luz
+
+Ghost_of_Jupiter
+Nebulosa do Fantasma de Júpiter
+nebulosa planetária
+Hydra
+0,58 anos-luz
+4800 anos-luz
+
+Southern_Pinwheel_2
+Galáxia do Cata-Vento do Sul
+galáxia espiral
+Hydra
+118.000 anos-luz
+14,7 milhões de anos-luz
+
+Swan
+Nebulosa do Cisne
+berçário estelar
+Sagittarius
+22 anos-luz
+5500 anos-luz
+
+Sombrero
+Galáxia do Sombrero
+galáxia espiral
+Corvus
+94.900 anos-luz
+31,1 milhões de anos-luz
+
+Lagoon
+Nebulosa Laguna
+berçário estelar
+Sagittarius
+110 anos-luz
+4100 anos-luz
+
+Messier_4
+Aglomerado da Aranha
+aglomerado globular
+Scorpius
+75 anos-luz
+6033 anos-luz
+
+Messier_22
+Grande Aglomerado de Sagitário
+aglomerado globular
+Sagittarius
+100 anos-luz
+10.600 anos-luz
+
+Centaurus_A
+Galáxia Centaurus A
+galáxia lenticular
+Centaurus
+123.000 anos-luz
+12 milhões de anos-luz
+
+Carina
+Nebulosa Carina
+berçário estelar
+Carina
+460 anos-luz
+7500 anos-luz
+
+Blackeye
+Galáxia do Olho Negro
+galáxia espiral
+Coma Berenices
+53.800 anos-luz
+17,3 milhões de anos-luz
+
+Wishing_Well
+Aglomerado do Poço dos Desejos
+aglomerado aberto
+Carina
+24,7 anos-luz
+1320 anos-luz
+
+Stingray
+Aglomerado da Arraia
+aglomerado aberto
+Carina
+26,4 anos-luz
+8400 anos-luz
+
+Ptolemy
+Aglomerado de Ptolomeu
+aglomerado aberto
+Scorpius
+40 anos-luz
+980 anos-luz
+
+Pearl
+Aglomerado da Pérola
+aglomerado aberto
+Centaurus
+19,2 anos-luz
+5500 anos-luz
+
+Messier_24
+Pequena Nuvem de Sagitário
+nuvem estelar
+Sagittarius
+600 anos-luz
+10.000 anos-luz
+
+Diamond
+Aglomerado do Diamante
+aglomerado aberto
+Carina
+24 anos-luz
+1300
+
+Butterfly
+Aglomerado da Borboleta
+aglomerado aberto
+Scorpius
+12 anos-luz
+1600 anos-luz
+
+Spindle
+Galáxia do Fuso
+galáxia lenticular
+Sextans
+66.200 anos-luz
+31,6 milhões de anos-luz
+
+Mars
+Marte
+planeta rochoso
+-
+6890 km
+228 milhões de km
+
+Venus
+Vênus
+planeta rochoso
+-
+12.100 km
+108 milhões de km
+
+Uranus
+Urano
+planeta gigante de gelo
+-
+50.700 km
+2,87 bilhões de km
+
+Sun
+Sol
+estrela anã amarela
+-
+1,39 milhões de km
+150 milhões de km
+
+Regor
+Regor
+estrela Wolf-Rayet
+Vela
+1,9x Sol
+1096 anos-luz
+
+Mu_Scorpii
+Pipirima / Xamidimura
+estrela subgigante azul / estrela jovem azul
+Scorpius
+5,6x / 3,9x Sol
+474 / 501 anos-luz
+
+Jupiter
+Júpiter
+planeta gigante gasoso
+-
+140.000 km
+778 milhões de km
+
+Hadar
+Hadar
+estrela gigante azul
+Centaurus
+9,16x Sol
+361 anos-luz
+
+Antares
+Antares
+estrela supergigante vermelha
+Scorpius
+680x Sol
+554 anos-luz
+
+Alpha_Centauri
+Rigel Kentaurus / Toliman
+estrela anã amarela / estrela anã laranja
+Centaurus
+1,22x / 0,86x Sol
+4,34 / 4,34 anos-luz
+
+Alcyone
+Alcyone
+estrela gigante azul
+Taurus
+10,6x Sol
+444 anos-luz
+
+Acrux
+Acrux A/B/C
+estrela jovem azul / estrela jovem azul / estrela subgigante azul
+Crux
+7,29x / 5,53 / 5,50x Sol
+320 / 320 / 310 anos-luz
+
+Albireo
+Albireo A/B
+estrela gigante brilhante laranja / estrela jovem azul
+Cygnus
+58,7x / 2,59x Sol
+365 / 395 anos-luz
+
