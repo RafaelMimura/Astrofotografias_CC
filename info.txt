@@ -149,7 +149,7 @@ Uranus
 Urano
 planeta gigante de gelo
 -
-50.700 km
+51.100 km
 2,87 bilhões de km
 
 Sun
@@ -177,7 +177,7 @@ Jupiter
 Júpiter
 planeta gigante gasoso
 -
-140.000 km
+143.000 km
 778 milhões de km
 
 Hadar
@@ -222,3 +222,51 @@ Cygnus
 58,7x / 2,59x Sol
 365 / 395 anos-luz
 
+Kaus_Australis
+Kaus Australis
+estrela subgigante azul
+Sagittarius
+8,80x Sol
+143 anos-luz
+
+Algedi
+Algedi 1/2
+estrela supergigante amarela / estrela gigante vermelha
+Capricornius
+36,3x / 8,38x Sol
+810 / 102 anos-luz
+
+Fuyue
+Fuyue / Aglomerado da Pepita de Prata
+estrela gigante laranja / aglomerado globular
+Scorpius
+16,4x Sol / 178 anos-luz
+126 / 42.700 anos-luz
+
+Messier_13
+Grande Aglomerado de Hércules
+aglomerado globular
+Hercules
+168 anos-luz
+22.200 anos-luz
+
+Moon
+Lua
+satélite natural
+-
+3480 km
+384.000 km
+
+Saturn
+Saturno
+planeta gigante gasoso
+-
+121.000 km
+1,43 bilhões de km
+
+Neptune
+Netuno
+planeta gigante de gelo
+-
+49.500 km
+4,50 bilhões de km
