@@ -17,7 +17,7 @@ Antares
 Hadar
 Mu_Scorpii
 Regor
-Kaus_Astralis
+Kaus_Australis
 Algedi
 Fuyue
 
@@ -32,6 +32,7 @@ Ptolemy
 Stingray
 Wishing_Well
 Fuyue
+Messier_13
 
 #Nebulosas
 Carina
