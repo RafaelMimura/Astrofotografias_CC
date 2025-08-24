@@ -1,9 +1,12 @@
 #Sistema Solar
 Sun
+Moon
 Venus
 Mars
 Jupiter
+Saturn
 Uranus
+Neptune
 
 #Estrelas
 Acrux
@@ -14,6 +17,9 @@ Antares
 Hadar
 Mu_Scorpii
 Regor
+Kaus_Astralis
+Algedi
+Fuyue
 
 #Aglomerados
 Butterfly
@@ -25,6 +31,7 @@ Pearl
 Ptolemy
 Stingray
 Wishing_Well
+Fuyue
 
 #Nebulosas
 Carina
