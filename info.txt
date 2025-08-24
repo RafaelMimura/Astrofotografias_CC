@@ -250,7 +250,7 @@ Hercules
 168 anos-luz
 22.200 anos-luz
 
-Moon
+Moon_3
 Lua
 satélite natural
 -
