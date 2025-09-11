@@ -270,3 +270,9 @@ planeta gigante de gelo
 -
 49.500 km
 4,50 bilhões de km
+
+Ring_2
+Nebulosa do Anel
+Lyra
+2,60 anos-luz
+2570 anos-luz
