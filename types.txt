@@ -40,6 +40,7 @@ Ghost_of_Jupiter
 Lagoon
 Southern_Ring
 Swan
+Ring_2
 
 #Galáxias
 Blackeye
