@@ -6,20 +6,23 @@ Mars
 Jupiter
 Saturn
 Uranus
-Neptune
+Neptune_2
 
 #Estrelas
 Acrux
 Albireo
 Alcyone
 Alpha_Centauri
-Antares
+Antares_2
 Hadar
 Mu_Scorpii
 Regor
 Kaus_Australis
 Algedi
 Fuyue
+Achernar
+Alnair
+Vega
 
 #Aglomerados
 Butterfly
@@ -33,6 +36,11 @@ Stingray
 Wishing_Well
 Fuyue
 Messier_13
+47_Tucanae
+Ink_Drop
+Messier_10
+NGC_346
+NGC_362
 
 #Nebulosas
 Carina
@@ -41,6 +49,8 @@ Lagoon
 Southern_Ring
 Swan
 Ring_2
+Ink_Drop
+NGC_346
 
 #Galáxias
 Blackeye
@@ -48,3 +58,5 @@ Centaurus_A
 Sombrero
 Southern_Pinwheel_2
 Spindle
+Grus_Quartet
+Sculptor
