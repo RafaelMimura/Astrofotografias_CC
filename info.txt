@@ -23,7 +23,7 @@ Swan
 Nebulosa do Cisne
 berçário estelar
 Sagittarius
-22 anos-luz
+22,0 anos-luz
 5500 anos-luz
 
 Sombrero
@@ -44,7 +44,7 @@ Messier_4
 Aglomerado da Aranha
 aglomerado globular
 Scorpius
-75 anos-luz
+75,0 anos-luz
 6033 anos-luz
 
 Messier_22
@@ -93,7 +93,7 @@ Ptolemy
 Aglomerado de Ptolomeu
 aglomerado aberto
 Scorpius
-40 anos-luz
+40,0 anos-luz
 980 anos-luz
 
 Pearl
@@ -114,14 +114,14 @@ Diamond
 Aglomerado do Diamante
 aglomerado aberto
 Carina
-24 anos-luz
+24,0 anos-luz
 1300
 
 Butterfly
 Aglomerado da Borboleta
 aglomerado aberto
 Scorpius
-12 anos-luz
+12,0 anos-luz
 1600 anos-luz
 
 Spindle
@@ -163,14 +163,14 @@ Regor
 Regor
 estrela Wolf-Rayet
 Vela
-1,9x Sol
+1,90x Sol
 1096 anos-luz
 
 Mu_Scorpii
 Pipirima / Xamidimura
 estrela subgigante azul / estrela jovem azul
 Scorpius
-5,6x / 3,9x Sol
+5,60x / 3,90x Sol
 474 / 501 anos-luz
 
 Jupiter
@@ -187,7 +187,7 @@ Centaurus
 9,16x Sol
 361 anos-luz
 
-Antares
+Antares_2
 Antares
 estrela supergigante vermelha
 Scorpius
@@ -264,7 +264,7 @@ planeta gigante gasoso
 121.000 km
 1,43 bilhões de km
 
-Neptune
+Neptune_2
 Netuno
 planeta gigante de gelo
 -
@@ -273,6 +273,84 @@ planeta gigante de gelo
 
 Ring_2
 Nebulosa do Anel
+nebulosa planetária
 Lyra
 2,60 anos-luz
 2570 anos-luz
+
+47_Tucanae
+47 Tucanae
+aglomerado globular
+Tucana
+120 anos-luz
+14.500 anos-luz
+
+Achernar
+Achernar
+estrela jovem azul
+Eridanus
+9,16x Sol
+139 anos-luz
+
+Alnair
+Alnair
+estrela jovem azul
+Grus
+3,91x Sol
+101 ly
+
+Comet
+R2 Swan
+cometa não periódico
+-
+134.000 km
+115 milhões de km
+
+Grus_Quartet
+Trio da Garça
+galáxias Seyfert
+Grus
+140.000 / 74.500 / 87.700 anos-luz
+69,1 / 84,5 / 62,7 milhões de anos-luz
+
+Ink_Drop
+Gota de Tinta
+aglomerado aberto / nebulosa escura
+Sagittarius
+9,14 anos-luz
+5235 anos-luz
+
+Messier_10
+Messier 10
+aglomerado globular
+Ophiuchus
+83,2 anos-luz
+14.300 anos-luz
+
+NGC_346
+NGC 346
+aglomerado aberto / berçário estelar
+Tucana
+121 anos-luz
+210.000 anos-luz
+
+NGC_362
+NGC 362
+aglomerado globular
+Tucana
+110 anos-luz
+29.300 anos-luz
+
+Sculptor
+Galáxia do Escultor
+galáxia Starburst
+Sculptor
+91.200 anos-luz
+11,4 milhões de anos-luz
+
+Vega
+Vega
+Estrela jovem branca
+Lyra
+2,73x Sol
+25,0 anos-luz
