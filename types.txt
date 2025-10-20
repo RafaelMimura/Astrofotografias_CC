@@ -23,6 +23,10 @@ Fuyue
 Achernar
 Alnair
 Vega
+Alpheratz
+Almach
+Keid
+Menkar
 
 #Aglomerados
 Butterfly
@@ -41,6 +45,8 @@ Ink_Drop
 Messier_10
 NGC_346
 NGC_362
+Messier_2
+Messier_15
 
 #Nebulosas
 Carina
@@ -51,6 +57,8 @@ Swan
 Ring_2
 Ink_Drop
 NGC_346
+Bug
+Tarantula
 
 #Galáxias
 Blackeye
@@ -60,3 +68,4 @@ Southern_Pinwheel_2
 Spindle
 Grus_Quartet
 Sculptor
+Cetus_A
