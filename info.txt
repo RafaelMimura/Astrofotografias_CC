@@ -354,3 +354,66 @@ Estrela jovem branca
 Lyra
 2,73x Sol
 25,0 anos-luz
+
+Bug
+Nebulosa da Borboleta
+nebulosa planetária
+Scorpius
+3,66 anos-luz
+3400 anos-luz
+
+Cetus_A
+Cetus A
+galáxia Seyfert
+Cetus
+90.300 anos-luz
+47 milhões de anos-luz
+
+Tarantula
+Nebulosa da Tarântula
+berçário estelar
+Doradus
+1860 anos-luz
+160.000 anos-luz
+
+Alpheratz
+Alpheratz
+estrela subgigante azul
+Andromeda
+2,94x Sol
+97,0 anos-luz
+
+Almach
+Almach A/B
+estrela gigante brilhante laranja / estrela jovem azul
+Andromeda
+98,5x / 3,63x Sol
+393 / 355 anos-luz
+
+Messier_2
+Messier 2
+aglomerado globular
+Aquarius
+174 anos-luz
+55.400 anos-luz
+
+Messier_15
+Grande Aglomerado de Pégaso
+aglomerado globular
+Pegasus
+176 anos-luz
+35.700 anos-luz
+
+Keid
+Keid A/B/C
+estrela anã laranja / estrela anã branca / estrela anã vermelha
+Eridanus
+0,80x Sol / 0,013x Sol / 0,27x Sol
+16,3 / 16,3 / 16,3 anos-luz
+
+Menkar
+Menkar / 93 Ceti
+estrela gigante vermelha / estrela jovem azul
+Cetus
+100x / 2,90x Sol
+248 / 446 anos-luz
