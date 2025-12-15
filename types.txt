@@ -27,6 +27,8 @@ Alpheratz
 Almach
 Keid
 Menkar
+Aldebaran
+Betelgeuse
 
 #Aglomerados
 Butterfly
@@ -47,6 +49,7 @@ NGC_346
 NGC_362
 Messier_2
 Messier_15
+Pleiades
 
 #Nebulosas
 Carina
@@ -59,6 +62,9 @@ Ink_Drop
 NGC_346
 Bug
 Tarantula
+Crab
+Hubble
+Orion
 
 #Galáxias
 Blackeye
