@@ -417,3 +417,45 @@ estrela gigante vermelha / estrela jovem azul
 Cetus
 100x / 2,90x Sol
 248 / 446 anos-luz
+
+Aldebaran
+Aldebaran
+estrela gigante vermelha
+Taurus
+45,1x Sol
+66,5 anos-luz
+
+Betelgeuse
+Betelgeuse
+estrela supergigante vermelha
+Orion
+702x Sol
+478 anos-luz
+
+Crab
+Nebulosa do Caranguejo
+remanescente de supernova
+Taurus
+13,2 anos-luz
+6500 anos-luz
+
+Hubble
+Nebulosa de Hubble
+nebulosa de reflexão
+Monoceros
+1,45 anos-luz
+2500 anos-luz
+
+Orion
+Nebulosa de Órion
+berçário estelar
+Orion
+25 anos-luz
+1340 anos-luz
+
+Pleiades
+Aglomerado das Plêiades
+aglomerado estelar
+Taurus
+40,6 anos-luz
+444 anos-luz
