@@ -73,6 +73,7 @@
             <button id="prev" class="action_button" onclick="prevImage()">Prev</button>
             <button id="play" class="action_button" onclick="toggle()">Play</button>
             <button id="next" class="action_button" onclick="nextImage()">Next</button>
+            <p id="count" style="text-align: center;">_ fotos</p>
         </div>
 
         <div id="middle">
@@ -111,13 +112,13 @@
             toggle();
         }
 
-        function prevImage() {
+        function nextImage() {
             idx--;
-            if (idx < 0) {idx = list.length - 1;}
+            if (idx < 0) {idx += list.length;}
             reloadImage();
         }
 
-        function nextImage() {
+        function prevImage() {
             idx++;
             if (idx == list.length) {idx = 0;}
             reloadImage();
@@ -155,7 +156,8 @@
             }
 
             idx = 0;
-            reloadImage();
+            nextImage();
+            document.getElementById("count").innerHTML = String(list.length) + " fotos";
         }
 
         //----------------------------------------------------------------------------------------------------------------------------------------------
