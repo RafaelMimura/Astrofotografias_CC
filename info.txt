@@ -12,13 +12,6 @@ Hydra
 0,58 anos-luz
 4800 anos-luz
 
-Southern_Pinwheel_2
-Galáxia do Cata-Vento do Sul
-galáxia espiral
-Hydra
-118.000 anos-luz
-14,7 milhões de anos-luz
-
 Swan
 Nebulosa do Cisne
 berçário estelar
@@ -60,13 +53,6 @@ galáxia lenticular
 Centaurus
 123.000 anos-luz
 12 milhões de anos-luz
-
-Carina
-Nebulosa Carina
-berçário estelar
-Carina
-460 anos-luz
-7500 anos-luz
 
 Blackeye
 Galáxia do Olho Negro
@@ -151,13 +137,6 @@ planeta gigante de gelo
 -
 51.100 km
 2,87 bilhões de km
-
-Sun
-Sol
-estrela anã amarela
--
-1,39 milhões de km
-150 milhões de km
 
 Regor
 Regor
@@ -459,3 +438,31 @@ aglomerado estelar
 Taurus
 40,6 anos-luz
 444 anos-luz
+
+Southern_Pinwheel_3
+Galáxia do Cata-Vento do Sul
+galáxia espiral
+Hydra
+118.000 anos-luz
+14,7 milhões de anos-luz
+
+Sun_2
+Sol
+estrela anã amarela
+-
+1,39 milhões de km
+150 milhões de km
+
+Eta_Carinae
+Eta Carinae
+estrela hipergigante azul
+Carina
+240x Sol
+7600 anos-luz
+
+Carina_2
+Nebulosa Carina
+berçário estelar
+Carina
+460 anos-luz
+7500 anos-luz
