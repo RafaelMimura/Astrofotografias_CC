@@ -1,5 +1,4 @@
 #Sistema Solar
-Sun
 Moon_3
 Venus
 Mars
@@ -7,6 +6,7 @@ Jupiter
 Saturn
 Uranus
 Neptune_2
+Sun_2
 
 #Estrelas
 Acrux
@@ -29,6 +29,7 @@ Keid
 Menkar
 Aldebaran
 Betelgeuse
+Eta_Carinae
 
 #Aglomerados
 Butterfly
@@ -52,7 +53,6 @@ Messier_15
 Pleiades
 
 #Nebulosas
-Carina
 Ghost_of_Jupiter
 Lagoon
 Southern_Ring
@@ -65,13 +65,14 @@ Tarantula
 Crab
 Hubble
 Orion
+Carina_2
 
 #Galáxias
 Blackeye
 Centaurus_A
 Sombrero
-Southern_Pinwheel_2
 Spindle
 Grus_Quartet
 Sculptor
 Cetus_A
+Southern_Pinwheel_3
