@@ -30,11 +30,11 @@ Menkar
 Aldebaran
 Betelgeuse
 Eta_Carinae
+Rebecca
 
 #Aglomerados
 Butterfly
 Diamond
-Messier_4
 Messier_22
 Messier_24
 Pearl
@@ -51,13 +51,14 @@ NGC_362
 Messier_2
 Messier_15
 Pleiades
+Messier_4
+Omega_Centauri
 
 #Nebulosas
 Ghost_of_Jupiter
 Lagoon
 Southern_Ring
 Swan
-Ring_2
 Ink_Drop
 NGC_346
 Bug
@@ -66,6 +67,8 @@ Crab
 Hubble
 Orion
 Carina_2
+Ring_2
+NGC_3918
 
 #Galáxias
 Blackeye
