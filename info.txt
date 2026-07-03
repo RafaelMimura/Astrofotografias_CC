@@ -33,13 +33,6 @@ Sagittarius
 110 anos-luz
 4100 anos-luz
 
-Messier_4
-Aglomerado da Aranha
-aglomerado globular
-Scorpius
-75,0 anos-luz
-6033 anos-luz
-
 Messier_22
 Grande Aglomerado de Sagitário
 aglomerado globular
@@ -250,13 +243,6 @@ planeta gigante de gelo
 49.500 km
 4,50 bilhões de km
 
-Ring_2
-Nebulosa do Anel
-nebulosa planetária
-Lyra
-2,60 anos-luz
-2570 anos-luz
-
 47_Tucanae
 47 Tucanae
 aglomerado globular
@@ -466,3 +452,38 @@ berçário estelar
 Carina
 460 anos-luz
 7500 anos-luz
+
+Messier_4
+Aglomerado da Aranha
+aglomerado globular
+Scorpius
+75,0 anos-luz
+6033 anos-luz
+
+Ring_2
+Nebulosa do Anel
+nebulosa planetária
+Lyra
+2,60 anos-luz
+2570 anos-luz
+
+Rebecca
+Rebecca
+estrela supergigante azul
+Sagittarius
+15,9x Sol
+2440 anos-luz
+
+NGC_3918
+Nebulosa do Fantasma de Netuno
+nebulosa planetária
+Centaurus
+0,24 anos-luz
+4900 anos-luz
+
+Omega_Centauri
+Ômega Centauri
+aglomerado globular
+Centaurus
+172 anos-luz
+15.800 anos-luz
