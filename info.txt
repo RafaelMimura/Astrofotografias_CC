@@ -19,13 +19,6 @@ Sagittarius
 22,0 anos-luz
 5500 anos-luz
 
-Sombrero
-Galáxia do Sombrero
-galáxia espiral
-Corvus
-94.900 anos-luz
-31,1 milhões de anos-luz
-
 Lagoon
 Nebulosa Laguna
 berçário estelar
@@ -487,3 +480,24 @@ aglomerado globular
 Centaurus
 172 anos-luz
 15.800 anos-luz
+
+Sombrero_2
+Galáxia do Sombrero
+galáxia espiral
+Corvus
+94.900 anos-luz
+31,1 milhões de anos-luz
+
+Antennae
+Galáxias da Antena
+colisão de galáxias
+Corvus
+258.000 anos-luz
+71,8 milhões de anos-luz
+
+Trifid
+Nebulosa Trífida
+berçário estelar
+Sagittarius
+42 anos-luz
+4109 anos-luz
