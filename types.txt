@@ -69,13 +69,15 @@ Orion
 Carina_2
 Ring_2
 NGC_3918
+Trifid
 
 #Galáxias
 Blackeye
 Centaurus_A
-Sombrero
 Spindle
 Grus_Quartet
 Sculptor
 Cetus_A
 Southern_Pinwheel_3
+Sombrero
+Antennae
