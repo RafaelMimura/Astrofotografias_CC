@@ -79,5 +79,5 @@ Grus_Quartet
 Sculptor
 Cetus_A
 Southern_Pinwheel_3
-Sombrero
+Sombrero_2
 Antennae
