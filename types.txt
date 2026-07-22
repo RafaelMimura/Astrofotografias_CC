@@ -1,6 +1,8 @@
 #Sistema Solar
 Moon_3
+Moon_4
 Venus
+Venus_2
 Mars
 Jupiter
 Saturn
@@ -35,7 +37,6 @@ Rebecca
 #Aglomerados
 Butterfly
 Diamond
-Messier_22
 Messier_24
 Pearl
 Ptolemy
@@ -53,12 +54,12 @@ Messier_15
 Pleiades
 Messier_4
 Omega_Centauri
+Messier_22_2
+NGC_6067
 
 #Nebulosas
 Ghost_of_Jupiter
-Lagoon
 Southern_Ring
-Swan
 Ink_Drop
 NGC_346
 Bug
@@ -70,10 +71,11 @@ Carina_2
 Ring_2
 NGC_3918
 Trifid
+Swan_2
+Lagoon_2
 
 #Galáxias
 Blackeye
-Centaurus_A
 Spindle
 Grus_Quartet
 Sculptor
@@ -81,3 +83,6 @@ Cetus_A
 Southern_Pinwheel_3
 Sombrero_2
 Antennae
+Virgo_A
+NGC_4476
+Centaurus_A_2
