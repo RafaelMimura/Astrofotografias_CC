@@ -12,34 +12,6 @@ Hydra
 0,58 anos-luz
 4800 anos-luz
 
-Swan
-Nebulosa do Cisne
-berçário estelar
-Sagittarius
-22,0 anos-luz
-5500 anos-luz
-
-Lagoon
-Nebulosa Laguna
-berçário estelar
-Sagittarius
-110 anos-luz
-4100 anos-luz
-
-Messier_22
-Grande Aglomerado de Sagitário
-aglomerado globular
-Sagittarius
-100 anos-luz
-10.600 anos-luz
-
-Centaurus_A
-Galáxia Centaurus A
-galáxia lenticular
-Centaurus
-123.000 anos-luz
-12 milhões de anos-luz
-
 Blackeye
 Galáxia do Olho Negro
 galáxia espiral
@@ -501,3 +473,64 @@ berçário estelar
 Sagittarius
 42 anos-luz
 4109 anos-luz
+
+Swan_2
+Nebulosa do Cisne
+berçário estelar
+Sagittarius
+22,0 anos-luz
+5500 anos-luz
+
+Lagoon_2
+Nebulosa Laguna
+berçário estelar
+Sagittarius
+110 anos-luz
+4100 anos-luz
+
+Messier_22_2
+Grande Aglomerado de Sagitário
+aglomerado globular
+Sagittarius
+100 anos-luz
+10.600 anos-luz
+
+Centaurus_A_2
+Galáxia Centaurus A
+galáxia lenticular
+Centaurus
+123.000 anos-luz
+12 milhões de anos-luz
+
+Moon_4
+Lua
+satélite natural
+-
+3480 km
+384.000 km
+
+Venus_2
+Vênus
+planeta rochoso
+-
+12.100 km
+108 milhões de km
+
+Virgo_A
+Virgo A
+galáxia elíptica supergigante
+Virgo
+132.000 anos-luz
+53,5 milhões de anos-luz
+
+NGC_4476
+NGC 4476 / NGC 4478
+galáxias lenticulares
+31.000 / 30.000 anos-luz
+55,4 / 52,2 milhões de anos-luz
+
+NGC_6067
+Nuvem Estelar de Norma
+Norma
+16,1 anos-luz
+4620 anos-luz
